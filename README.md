@@ -1,4 +1,5 @@
 ##OVERVIEW
+
 It demonstrates professional Git & GitHub workflows across four phases, including branch management, documentation, issue tracking, and automation.The project simulates a simple Student Manager where users can view, add, and manage student records (example domain).
 
 ##INSTALLATION
